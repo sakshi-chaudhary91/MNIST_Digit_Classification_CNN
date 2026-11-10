@@ -4,7 +4,7 @@ A clean, beginner-friendly yet production-ready Convolutional Neural Network (CN
 
 ---
 
-## 🚀 Project Overview
+## 🚀 Notebook Overview
 This project demonstrates the core concepts of computer vision and deep learning by implementing a multi-layer CNN pipeline. The model extracts spatial hierarchies of features (edges, shapes, loops) using convolutional and pooling layers, culminating in fully connected dense layers to accurately predict digits from `0` to `9`.
 
 * **Dataset:** MNIST (60,000 training images, 10,000 test images of size 28x28 grayscale)
