@@ -9,7 +9,7 @@ This project demonstrates the core concepts of computer vision and deep learning
 
 * **Dataset:** MNIST (60,000 training images, 10,000 test images of size 28x28 grayscale)
 * **Framework:** TensorFlow / Keras (Keras 3 syntax compliant)
-* **Final Test Accuracy:** **~97.70%** (achieved in just 5 epochs)
+* **Final Test Accuracy:** **~97.70%** (achieved in just 5 epochs) 
 
 ---
 
