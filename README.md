@@ -1,6 +1,6 @@
 # ✍️ Handwritten Digit Classification using CNN
 
-A clean, beginner-friendly yet production-ready Convolutional Neural Network (CNN) built with **TensorFlow and Keras** to classify handwritten digits from the classic **MNIST dataset**. 
+A clean, beginner-friendly yet production-ready Convolutional Neural Network (CNN) built with **TensorFlow and Keras** to classify handwritten digits from the classic **MNIST dataset**.  
 
 ---
 
